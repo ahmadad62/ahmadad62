@@ -1,11 +1,48 @@
-- 👋 Hi, I’m @ahmadad62
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS/Javascript
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.75" height="28" role="img" aria-label="MONGODB"><title>MONGODB</title><g shape-rendering="crispEdges"><rect width="110.75" height="28" fill="#4ea94b"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPk1vbmdvREI8L3RpdGxlPjxwYXRoIGQ9Ik0xNy4xOTMgOS41NTVjLTEuMjY0LTUuNTgtNC4yNTItNy40MTQtNC41NzMtOC4xMTUtLjI4LS4zOTQtLjUzLS45NTQtLjczNS0xLjQ0LS4wMzYuNDk1LS4wNTUuNjg1LS41MjMgMS4xODQtLjcyMy41NjYtNC40MzggMy42ODItNC43NCAxMC4wMi0uMjgyIDUuOTEyIDQuMjcgOS40MzUgNC44ODggOS44ODRsLjA3LjA1QTczLjQ5IDczLjQ5IDAgMDExMS45MSAyNGguNDgxYy4xMTQtMS4wMzIuMjg0LTIuMDU2LjUxLTMuMDcuNDE3LS4yOTYuNjA0LS40NjMuODUtLjY5M2ExMS4zNDIgMTEuMzQyIDAgMDAzLjYzOS04LjQ2NGMuMDEtLjgxNC0uMTAzLTEuNjYyLS4xOTctMi4yMTh6bS01LjMzNiA4LjE5NXMwLTguMjkxLjI3NS04LjI5Yy4yMTMgMCAuNDkgMTAuNjk1LjQ5IDEwLjY5NS0uMzgxLS4wNDUtLjc2NS0xLjc2LS43NjUtMi40MDV6Ii8+PC9zdmc+"/><text transform="scale(.1)" x="653.75" y="175" textLength="667.5" fill="#fff" font-weight="bold">MONGODB</text></g></svg>
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- @format -->
 
-<!---
-ahmadad62/ahmadad62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <h1>Hello there:godmode:</h1>
+- 🌱 I’m a Full-Stack Developer
+```python
+class ari:
+  def __init__(info):
+    info.aboutme = {
+            "email": ["arianrazab@yahoo.com"],
+            "personal info": ["Ari", "Razab", "26", "Male"],
+            "portfolio": ["https://www.arii.me/"],
+            "location": ["Germany", "Rheinland-Pfalz"],
+    }
+```
+- 💬 Feel Free to contact me
+
+
+
+
+- ⚡ Fun fact: water is wet
+- 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <image src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <image src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <image src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+   <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+     <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+     <image src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+     <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
+      
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AriiMe&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriiMe&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
+
+
+<a href="https://github.com/AriiMe">
+  <img src="https://img.shields.io/github/followers/AriiMe">
+</a>
+<a href="https://github.com/AriiMe">
+  <img src="https://img.shields.io/github/stars/AriiMe">
+</a>
+<!--
+<image src="">
+<image src=""> -->
