@@ -1,9 +1,6 @@
-<!-- @format -->
-
-### <h1>Hello there:godmode:</h1>
 - 🌱 I’m a Full-Stack Developer
 - 💬 Feel Free to contact me
-- ⚡ Fun fact: water is wet
+- ⚡ Fun fact: Avocados are a fruit, not a vegetable. ...
 - 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
