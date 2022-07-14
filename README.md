@@ -9,7 +9,7 @@
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&langs_count=3&show_icons=true&theme=synthwave)](https://github.com/ahmadad62)
 
 
 <a href="https://github.com/ahmadad62">
