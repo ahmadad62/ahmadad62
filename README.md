@@ -8,7 +8,7 @@
   <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&theme=tokyonight&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
