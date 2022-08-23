@@ -19,6 +19,13 @@
 <a href="https://github.com/ahmadad62">
   <img src="https://img.shields.io/github/stars/ahmadad62">
 </a>
+
+
+<a target="_blank" href="https://github.com/sskorol">
+  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?ahmadad62=sskorol&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
+</a>
+
+
 <!--
 <image src="">
 <image src=""> -->
