@@ -11,7 +11,7 @@
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&layout=compact)]   <hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&count_private=true) 
-(https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
