@@ -9,20 +9,20 @@
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
     
-    <a href="https://github.com/ahmadad62">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&layout=compact)]   <hr/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&count_private=true) 
+(https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+<a href="https://github.com/ahmadad62">
   <img src="https://img.shields.io/github/followers/ahmadad62">
 </a>
 <a href="https://github.com/ahmadad62">
   <img src="https://img.shields.io/github/stars/ahmadad62">
 </a> <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&count_private=true) <hr/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 
 <!--
 <image src="">
