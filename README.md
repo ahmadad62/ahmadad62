@@ -21,10 +21,6 @@
 </a>
 
 
-<a target="_blank" href="https://github.com/sskorol">
-  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=ahmadad62&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
-</a>
-
 
 <!--
 <image src="">
