@@ -10,6 +10,7 @@
 
   <hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadad62&show_icons=true&count_private=true) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
    
 <!--
