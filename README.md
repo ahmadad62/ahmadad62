@@ -11,7 +11,7 @@ I love programming and working with different frameworks.
 
 - 👨🏽‍💻 I’m currently doing a Webdev bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/); 
 - 🌱 I’m currently learning **Javascript, React, Next.js, Tailwind CSS, Bootstrap**
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help;.
 
 #### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
