@@ -32,7 +32,7 @@ I love programming and working with different frameworks.
 
 
 
-### Contact me:
+### Some works:
 
 - [Portfolio](https://ahmadalinaghian.netlify.app/.)
 - [LinkedIn](https://www.linkedin.com/in/ahmad-alinaghian-17a773183/)
