@@ -11,7 +11,7 @@ I love programming and working with different frameworks.
 
 - 👨 I’m currently doing a Webdev bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/); 
 - 🌱 I’m currently learning **Javascript, React, Next.js, Tailwind CSS, Bootstrap**
-- 💬 Ask me about anything, I am happy to help;.
+- 💬 Ask me about anything, I am happy to help;
 
 #### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,7 +39,7 @@ I love programming and working with different frameworks.
 - [Admin Dashboard](https://resplendent-liger-fde8c2.netlify.app)(username:admin@admin.dev, password:123456)
 - [Gold Shop](https://stirring-praline-529562.netlify.app/) 
 - [Netflix clone](https://chic-youtiao-b033b6.netlify.app/)
-- [Email](mailto:ahmadalinaghian@yahoo.com)
+
 
 ### Github Stats:
 
