@@ -39,7 +39,7 @@ I love programming and working with different frameworks.
 - [Admin Dashboard](https://resplendent-liger-fde8c2.netlify.app)(username:admin@admin.dev, password:123456)
 - [Gold Shop](https://stirring-praline-529562.netlify.app/) 
 - [Netflix clone](https://chic-youtiao-b033b6.netlify.app/)
-- Email: [![Email](https://img.shields.io/badge/ahmadalinaghian@yahoo.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white)](mailto:ahmadalinaghian@yahoo.com)
+- [Email](mailto:ahmadalinaghian@yahoo.com)
 
 ### Github Stats:
 
