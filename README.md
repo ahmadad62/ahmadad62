@@ -27,7 +27,7 @@ I love programming and working with different frameworks.
 
 - [Portfolio](https://ahmadalinaghian.info)
 - [LinkedIn](https://www.linkedin.com/in/ahmad-alinaghian-17a773183/)
-- [Admin Dashboard](https://resplendent-liger-fde8c2.netlify.app) (username: admin@admin.dev, password: 123456)
+- [Admin Dashboard](https://resplendent-liger-fde8c2.netlify.app)
 - [Gold Shop](https://stirring-praline-529562.netlify.app/) 
 - [Netflix clone](https://chic-youtiao-b033b6.netlify.app/)
 - [Full Stack Final Project](https://your-final-project-link)
