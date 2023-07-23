@@ -23,7 +23,7 @@ I love programming and working with different frameworks.
 |<image src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">|<image src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">|<image src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">|<image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">|
 |<image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">|<image src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">|<image src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">| |
 
-### Some works:
+### Some works :
 
 - [Portfolio](https://ahmadalinaghian.info)
 - [LinkedIn](https://www.linkedin.com/in/ahmad-alinaghian-17a773183/)
