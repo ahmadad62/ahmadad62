@@ -6,11 +6,12 @@ Hi there, I'm **Ahmad Alinaghian**, a **Fullstack Web Developer**.
 
 I love programming and working with different frameworks.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 👨 I’m a Fullstack Web Developer.
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **NextJS**.
 - 💬 Ask me about anything; I am happy to help.
+- ☕  [Buy a coffee](https://www.buymeacoffee.com/anaghian)
 
 #### <h3 align="left">Languages and Tools:</h3>
 
