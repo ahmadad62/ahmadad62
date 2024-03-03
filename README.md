@@ -9,7 +9,7 @@ I love programming and working with different frameworks.
 ### Talking about Personal Stuff:
 
 - 👨 I’m a Fullstack Web Developer.
-- 🌱 I’m currently learning **NextJS**.
+- 🌱 I’m currently learning **ASP.NET Core**.
 - 💬 Ask me about anything; I am happy to help.
 - ☕  [Buy a coffee](https://www.buymeacoffee.com/anaghian)
 
