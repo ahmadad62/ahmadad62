@@ -37,8 +37,7 @@ I love programming and working with different frameworks.
 
 
 ### Github Stats:
+<div style="background-color: black; padding: 10px; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&count_private=true&layout=compact&langs_count=10&hide=html,css" style="width: 400px; height: auto;">
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadad62&count_private=true&theme=dracula" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadad62&hide=stars&show_icons=true&theme=dracula&line_height=40" height="200">
-</p>
